@@ -1,0 +1,11 @@
+name "withdrawal-rate"
+description "Salary-raise conversion arithmetic for FIRE planning: after-tax flow, ten-year growth, withdrawal support, FI number"
+authors "James Verlander"
+homepage "https://firenomics.com"
+license "MIT"
+targetType "library"
+
+configuration "demo" {
+    targetType "executable"
+    mainSourceFile "demo/main.d"
+}
