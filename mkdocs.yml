@@ -1,0 +1,6 @@
+site_name: withdrawal-rate
+site_description: Salary-raise conversion arithmetic for FIRE planning (D, stdlib only).
+repo_url: https://github.com/scrapertweeter3-prog/withdrawal-rate-d
+repo_name: scrapertweeter3-prog/withdrawal-rate-d
+nav:
+  - Home: index.md
